@@ -12,9 +12,10 @@ body {
 #projects {
     background-color: #C0C0C0;
 }
+
 .info-panel img {
-  width: 120px;
-  height: 120px;
-  margin-top: 20px;
+  width: 130px;
+  height: 130px;
+  margin-top: 15px;
   margin-bottom: 3px;
 }
